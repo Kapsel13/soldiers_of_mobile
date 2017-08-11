@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="79a435f1c45ac04593a5134d70da983305584e90">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-11.0.2_c5c7070bd3a82e427bb6239b71b412de5138d078/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="976b0a037981a05e685415093c67ad73c94d4846">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-11.0.2_9e8c74f766efad9ff44c245535d7ba1d86f46584/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a5da59bfe8bee5a41daa7c26b970b12699ac8db">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-11.0.2_e514290beeecf7588f9ae06e13b85ce70bf83473/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-11.0.2_5ef9b268a63f232df5e703e555554da91e0a21c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4737d9835cf3ea9751f7d6647be60900062d1062">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-11.0.2_b999b9ebedf705f67fb564d9bf7e6c098deb17dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-api-phone/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a9bc3e11fbff8e0d503ff795c12c73e1a6fad7a9">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-api-phone-11.0.2_c12dd6165f8b4bf6dd78f6edd9e417fad17651c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="885bcb023a9b57ed31c305e2e94e31af909e21c5">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-11.0.2_bfc61e9734d3a0fdbb91901b30e82e59839f1404/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-dynamic-links/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1fd6dc27f1ebe5bdbf26aa54773d11327f91532b">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-dynamic-links-11.0.2_802bad4d5413f3f92467dbe86b84608c356188b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dbbba1fc0f6c51382c3fa1f9223d1f6f9144f359">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-11.0.2_4194114350a4f7f45e2257bc6a9b0139f9d26544/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f909161e9bac1dd36538a275f06cae462082316a">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-11.0.2_b70d1a803de1c717fdcaa9fa337247a404eb400f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e015f5a6691f80b1f71e5299d48933be6a057963">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-11.0.2_dd3a0957f28f1358529e5e2cd0fc93b8c89e0ef4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3560fc891bbecd8982acbace15ccead59c3fedd1">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-11.0.2_9f6bb862c55c06dcb1df91e095c7640737d6abf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5bad89ac06f1015490c3332c1cd160be1d17c049">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-11.0.2_4d8be45c401a602c5e9c53887448b709605139cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="15857dce424132cb53e37cba16b9d587a6c5c568">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-11.0.2_8875b43fcdae92089eacc1f13065d2fbc24eebf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7357cef91864a283c8db913866f50bafbe8c6801">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-11.0.2_aeb0393311b460a5cc85bf122b2cfb6886b41ad5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision-common/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="68a1346f52b0e623460bf2f70c59c59a7a34bcea">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-common-11.0.2_a4e8247cabd73479fdba45c80185eb71d496888d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-11.0.2_96b6d8d1eaadb4e4130d564d506252258cd87fb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-26.0.0-alpha1_314fc1a1d5658ce571a2dd896a5f53a72d11e623/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b84a791dc9bcda50cb84e4498e0502b3e4dfd47d">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-11.0.2_13c8eef0a25df5e2886499bbda71500c22ad5b17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f2bae22c4925830cc03e81f4911f62b445bf132f">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-11.0.2_96def77e9ab4bdf2ed13c8e6e270db6509844157/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86e2c2399cfd7f8271b535b0e7d8ec092d0c6335">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-11.0.2_c39857a3174810abc5a32c31ebd74aad3273cc84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5493a7c08b74d424d08a23c68334893cfd2d5ee3">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-11.0.2_02b9815ac12f2b140781f2b8ca07bce14145c32b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="03711df0c11eb771a2115c76db9e271eddea1bb8">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-11.0.2_4c5ba101d09b83bacb0d3e4202e008df833b0803/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-database/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-11.0.2_410b792167de6b38d7390e907472f003b4ffa4cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_376db6fb7ab2f0e51fef6bf178f6835af5fcbc65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="424e509954db08079f78b20947e2cf120c045e48">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-11.0.2_7431de7b94504748eeaa25e19c63f1de17e8234b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="50fde88f529e2c238d72467da774e113f47dc866">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-11.0.2_13d3148d9f7aa4bc683ad786277fd26703c46cff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/.gradle/caches/modules-2/files-2.1/com.googlecode.android-query/android-query/0.25.9/fff82e4e1e56b60d6eb1d5487dbd3d3b526b635f/android-query-0.25.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fff82e4e1e56b60d6eb1d5487dbd3d3b526b635f">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/android-query-0.25.9_3fb0be5f9e52b41064b749de893392728e446087/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="338791f0ad4a30593b69a9d083380ddb6789dd6a">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-11.0.2_82c450664a729099ea82e9d1f51f5eb3f6048c91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_15f6dc7372f11a8b0645dde411e916989b4a3b98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3efb47b4b1c4b53772113436dd72a369f6996fc7">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f2a829c055177be143c57ba1acbc620ebc82f41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-26.0.0-alpha1_ee460385de71823e466916dad6ca4dd0d4212f2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-11.0.2_82aa1bf5b04566e23b4189da6e702b66a2ad9934/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9d450b7bb769ccb688a01bd50b9be57962d74c6c">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bb3899bfd79a6980be48ddecacd6e81df6dc83fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-26.0.0-alpha1_dfee6cb8380c6925f013ea8059850525402775f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-26.0.0-alpha1_2d2c3c209437c490563cdf80df533ad30b774421/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f260cdc1a267b17b911022919f19d568e6624229">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-11.0.2_70e11ac34e235d1a77b4f5d1ee907f0799d3ba5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-25.2.0_4ad4a331c4bfb2fe194e685167d1b59bcbc3a292/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-11.0.2_69ccf46779b59f6f6a765c3f5936e495d0d0952a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e4ff475aad14939684efd3227ec19cd49e90888f">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-11.0.2_103c2d3b275f13d45117f81700bfea1bb1b66b9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-26.0.0-alpha1_f961b9be0a725687e9acf79e6e74a8e31c1e3065/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-26.0.0-alpha1_b4d4bdbd3d05c896aedc4167fada2a263d225338/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d3a27693b28b46af644df8ce765f4252b32c9e87">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-11.0.2_a4f67aea7bc543ca95cee5cd79984f1a64aebb8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a3d07dfddc7c3c7547fb953847589d586f1e2077">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-11.0.2_ef5f856b7b411792447cd74e6c29a8c85192f1bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5c6a0af36142b32d1f81ab099b73e90a25e360e2">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-11.0.2_5a39e7e1f3d62119561766ae703c3d2d5d68eafc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2df23fb8581e8503db6e33739b450f9eb4a8b30a">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-11.0.2_b492d58a7c89dc446759b4774f8a95e3e5365b13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="25c862ccc7a67cc4682ea9cacf08918693e915ef">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-11.0.2_74fa22fb34d39815472e09d090c4987a79da387a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="543cbd7526b5bf05a5a1be344c53b1994f22a04f">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-11.0.2_0cecd37463124897922f07c387652ee94e3aa226/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3f813cc0713085e46735bcabf9def2ffb6419de7">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-11.0.2_9158a23e4f1cdd4995b4a957c4da77b73f9505ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-config/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0cccf7679b2764a849f90e2b581e2ec8d411679f">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-11.0.2_ca15227463736a2bed38cef8e8f87ae3a106a5a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-26.0.0-alpha1_c481e4899d98e53da66c98f4c36a64577a1878e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-11.0.2_a017b77adc66125fea3b4fe4a85ec2472e280a86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-26.0.0-alpha1_28edfdc3c6a45c16d549f94f3cb105ebdbec5aa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e8c74e789b51b9da4070aeaed71bae36c3d244f">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-11.0.2_4c52e16f4b0b31d82cc54d1866c4b49778bf9ae8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-11.0.2_2159fe2d494574ee84a076cf6e675f07f69874b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-11.0.2_7be1558df50819f5a6c9e5150786fc64e0f591c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="314299924c4866a8fea850a6ab10a7751fbce79d">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-11.0.2_5264743af330a537958aca8bd8abc25ff0adc7c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-11.0.2_d3ce5cd309bbd7b704489dd7ed2b24f0ad1bec35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-11.0.2_28bcc4f63a0b54cf2e4670ff725f988282d550b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="587840a157b50a6380d814a7a5a87b76118405e2">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-11.0.2_d5f15ae3a573c5b964b386d3e8b76769ef383061/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.android.support/palette-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-25.2.0_aae24377974bdf4d7b1c24219900ff434aabb337/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="acd4f9fad8500386084346a88ca47e2b66e84ffd">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-11.0.2_1e12d89acd364712611106ab31233dfc0ea9517a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="acaf8846fcf5556493bdbe075b13ea664bb1e9f5">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-11.0.2_8f1f747cbf4420f3ee9b840934e01350b139503a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cdfe6f00bbbe6bf590b4306017d485d845ffc7e5">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-11.0.2_16e22ec66ea874626f73fa13ab1e83bfb3ce87c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="240e5a7c620376184f3168cfdd36315b97b1fe07">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-11.0.2_2ebff1557f1f2c28a10dfe104e19b041934df44a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-26.0.0-alpha1_386614f507610beeadcd70ed52d5cf07a0a9a81d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/11.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ba90907329e4ed429307d39490927b456838bf08">
+        <dex dex="/home/marcin/IdeaProjects/android_apki/soldiers_of_mobile/Wyklad3part1/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-11.0.2_97b62daa1b8cf101cbeec8920816618b4e18ad9f/classes.dex" />
+    </item>
+
+</items>
